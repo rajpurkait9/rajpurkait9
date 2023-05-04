@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saurav Joshi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj purkait
 ====================================================================================================================================
 
 Trying to be Data Analyst
 -------------------------
 
 * 🌍  I'm based in New Delhi
-* 🧠  I'm learning Python
-* ⚡  I'm secretly Spiderman... but don't tell anyone
+* 🧠  I'm learning Flutter
+* ⚡  I'm very big aniem fan... but don't tell anyone
 
 <a href="https://www.twitter.com/Saurav14__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Saurav14__?logo=twitter&style=for-the-badge&color=000000&labelColor=27272a"
