@@ -9,7 +9,7 @@ MERN Stack Developer
 * ⚡  I'm very big aniem fan... but don't tell anyone
 
 <a href="https://www.linkedin.com/in/rajpurkait9/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Saurav14__?logo=twitter&style=for-the-badge&color=000000&labelColor=27272a"
+src="https://img.shields.io/linkedin/follow/rajpurkait__?logo=linkedin&style=for-the-badge&color=000000&labelColor=27272a"
 /></a>
 [![](https://visitcount.itsvg.in/api?id=sauravj14&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -34,11 +34,11 @@ src="https://img.shields.io/twitter/follow/Saurav14__?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sauravJ14"><img src="https://github-readme-stats.vercel.app/api?username=sauravJ14&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&show_icons=true" alt="sauravJ14's GitHub stats" /></a>
+<a href="http://www.github.com/rajpurkait9"><img src="https://github-readme-stats.vercel.app/api?username=rajpurkait9&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&show_icons=true" alt="sauravJ14's GitHub stats" /></a>
 
-<a href="http://www.github.com/sauravJ14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravJ14&stroke=64748b&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/rajpurkait9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpurkait9&stroke=64748b&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/sauravJ14"><img src="https://activity-graph.herokuapp.com/graph?username=sauravJ14&bg_color=27272a&color=64748b&line=000000&point=64748b&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rajpurkait9"><img src="https://activity-graph.herokuapp.com/graph?username=rajpurkait9&bg_color=27272a&color=64748b&line=000000&point=64748b&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/rajpurkait9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpurkait9&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
