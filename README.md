@@ -40,10 +40,10 @@ src="https://img.shields.io/twitter/follow/Saurav14__?logo=twitter&style=for-the
 
 <a href="http://www.github.com/sauravJ14"><img src="https://activity-graph.herokuapp.com/graph?username=sauravJ14&bg_color=27272a&color=64748b&line=000000&point=64748b&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sauravJ14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravJ14&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/rajpurkait9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpurkait9&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sauravj14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rajpurkait9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
