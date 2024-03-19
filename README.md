@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN Stack Developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpurkait9&label=Profile%20views&color=0e75b6&style=flat" alt="rajpurkait" /> </p>
 <img
-src="https://rajpurkait.netlify.app/assets/myImg-1f876550.gif"
+src="https://rajpurkait.netlify.app/myImg.gif"
 />
 ===
 -------------------------
