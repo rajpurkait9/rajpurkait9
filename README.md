@@ -1,7 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj purkait
-====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj purkait =================================================================================================================================
 
-MERN Stack Developer
+MERN Stack Developer <img
+src="https://rajpurkait.netlify.app/assets/myImg-1f876550.gif"
+/>
+===
 -------------------------
 
 * 🌍  I'm based in New Delhi
