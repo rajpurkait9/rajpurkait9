@@ -33,7 +33,7 @@ src="https://rajpurkait.netlify.app/myImg.gif"
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Tableau" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go.svg" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 <p></p>
