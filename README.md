@@ -1,55 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj purkait 
+<h1 align="center">Hi 👋, I'm Raj Purkait</h1>
+<h3 align="center">🚀 Full Stack Developer | 📍 New Delhi | 🦀 Learning Rust</h3>
 
-FULL Stack Developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpurkait9&label=Profile%20views&color=0e75b6&style=flat" alt="rajpurkait" /> </p>
-<img
-src="https://rajpurkait.netlify.app/myImg.gif"
-/>
-===
--------------------------
-
-* 🌍  I'm based in New Delhi
-* 🧠  I'm learning Rust
-* ⚡  I'm very big aniem fan... but don't tell anyone
-
-<a href="https://www.linkedin.com/in/rajpurkait9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/rajpurkait9" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Pandas" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go.svg" width="36" height="36" alt="Tableau" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
+  <img src="https://rajpurkait.netlify.app/myImg.gif" width="200"/>
 </p>
 
-<p></p>
+---
 
+### 🌟 About Me  
+- 🌍 Based in **New Delhi, India**  
+- 🧠 Currently diving deep into **Rust**  
+- ⚡ A *huge anime fan* (shh... 🤫)  
+- 💡 Passionate about building scalable **web & mobile applications**  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/rajpurkait9"><img src="https://github-readme-stats.vercel.app/api?username=rajpurkait9&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&show_icons=true" alt="sauravJ14's GitHub stats" /></a>
+### 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajpurkait9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rajpurkait9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<a href="http://www.github.com/rajpurkait9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpurkait9&stroke=64748b&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/rajpurkait9"><img src="https://activity-graph.herokuapp.com/graph?username=rajpurkait9&bg_color=27272a&color=64748b&line=000000&point=64748b&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🛠️ Skills  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40"/>
+</p>
 
-<a href="https://github.com/rajpurkait9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpurkait9&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajpurkait9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajpurkait9&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpurkait9&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpurkait9&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
+---
+
+### 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajpurkait9&theme=radical&no-frame=true&margin-w=15&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpurkait9&theme=react-dark&bg_color=20232a&hide_border=true" />
+</p>
