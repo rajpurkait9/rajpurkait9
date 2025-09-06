@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj purkait 
 
-MERN Stack Developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpurkait9&label=Profile%20views&color=0e75b6&style=flat" alt="rajpurkait" /> </p>
+FULL Stack Developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpurkait9&label=Profile%20views&color=0e75b6&style=flat" alt="rajpurkait" /> </p>
 <img
 src="https://rajpurkait.netlify.app/myImg.gif"
 />
@@ -8,11 +8,11 @@ src="https://rajpurkait.netlify.app/myImg.gif"
 -------------------------
 
 * 🌍  I'm based in New Delhi
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Rust
 * ⚡  I'm very big aniem fan... but don't tell anyone
 
 <a href="https://www.linkedin.com/in/rajpurkait9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/sauravJ14" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/rajpurkait9" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 
 
@@ -33,6 +33,7 @@ src="https://rajpurkait.netlify.app/myImg.gif"
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="36" height="36" alt="Tableau" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang.svg" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 <p></p>
