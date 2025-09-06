@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full Stack Developer | 📍 New Delhi | 🦀 Learning Rust</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
-  <img src="https://rajpurkait.netlify.app/myImg.gif" width="200"/>
+  <!-- Main Hero Banner -->
+  <img src="https://i.imgur.com/0h7XqJx.gif" width="800" alt="Coding Banner"/>
 </p>
 
 ---
